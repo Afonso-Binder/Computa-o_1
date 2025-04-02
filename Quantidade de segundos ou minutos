@@ -15,7 +15,7 @@ int main(){
     else
     {
     min= (hora*60.0 + min + seg/60.0);
-        printf("Quantidade de minutos: %.1f\n");
+        printf("Quantidade de minutos: %.1f\n", min);
     }
     return 0;
 }
