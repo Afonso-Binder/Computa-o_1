@@ -24,7 +24,7 @@ int main() {
         scanf("%d", &numero);
     }
 
-    // Verifique51 se pelo menos um número foi digitado
+    // Verifique se pelo menos um número foi digitado
     if (primeiro) {
         printf("Nenhum número válido foi digitado.\n");
     } else {
