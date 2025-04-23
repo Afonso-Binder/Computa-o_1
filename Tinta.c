@@ -9,7 +9,7 @@ int main ()
 
     m2=alt*larg;
 
-    printf("\nA área total da sua parede é %.1f \n", m2);
+    printf("A área total da sua parede é %.1f \n", m2);
 
     litros=m2/2;
     nb = floor(litros);
